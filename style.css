@@ -1,0 +1,9 @@
+h1{color: green; margin: 30px; padding: 50px}
+.header{border: solid; background-color: yellow; display:flex;  justify-content: space-between}
+a:link{color: white}
+a:visited{color: blue}
+.menu{margin-right:30px}
+.menu a{margin-left:20px}
+.item{position: relative;}
+.item p{position:absolute; top:40%; left: 5% ;transform:translate(-50%, -50%); opacity: 0}
+.item:hover p{opacity : 1}
